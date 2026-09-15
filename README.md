@@ -18,9 +18,6 @@ I enjoy turning ideas and Figma designs into polished interfaces, building relia
 - ⚡ Develop backend services and APIs using **Node.js, TypeScript, and Express.js**
 - 🔗 Integrate **RESTful and GraphQL APIs**
 - 🗄️ Work with **PostgreSQL, MongoDB, Prisma, and Drizzle**
-- 🔐 Implement authentication and **role-based access control (RBAC)**
-- 🔄 Build real-time applications using **Socket.IO**
-- 📊 Manage application state and data fetching with **Redux Toolkit and React Query**
 - 🎨 Translate **Figma designs** into responsive, pixel-perfect interfaces
 - 🤖 Explore **AI/ML integration** in web applications
 - 🚀 Deploy applications using **Vercel, Render, and Railway**
